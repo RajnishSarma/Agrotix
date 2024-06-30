@@ -1,0 +1,36 @@
+
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 40px;
+    /* text-decoration: transparent; */
+    background: url(../images/pic1.jpg); 
+    overflow:hidden ;    
+  }
+  
+  .logo p {
+     text-decoration: none;
+     display: inline;
+     color: #ffffff;   
+     font-size: 60px;
+     width: 50px;
+     height: auto;
+  }
+  
+  .nav-links li {
+    display: inline;
+    margin: 5px 15px;
+    padding: 10px;  
+    text-decoration: none;
+    color: white; 
+  }
+  .nav-links li:hover{
+    background: rgba(49, 62, 9, 0.838);
+    padding: 10px;   
+    border-radius: 5px;
+    border: solid;
+    cursor: pointer;
+  }
+  

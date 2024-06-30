@@ -1,0 +1,25 @@
+
+.about-us-container {
+    /* max-width: 600px; */
+    margin: 0 auto;
+    padding: 175px;
+    color: #f7f4f4;
+    font-weight: bold;
+    text-align: center;
+    /* background-color: rgb(6, 144, 19); */
+    /* box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); */
+    background-image: url(../images/pic1.jpg);
+  }
+  .about-us-container h2{
+       font-size: 45px;
+       margin-bottom: 10px;
+       /* padding-top: 10px; */
+  }
+  .about-us-contant{
+         padding: 10px;
+         font-size: 22px;
+  }
+
+  
+ 
+  
